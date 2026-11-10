@@ -1,0 +1,18 @@
+# Зависимости (это скачает любой, кто склонирует проект через npm install)
+node_modules
+
+# Сборка
+dist
+dist-ssr
+
+# Локальные файлы конфигурации (там могут быть ваши ключи!)
+.env
+.env.*
+primevue.license
+
+# Логи и системный мусор
+*.log
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Title 1",
+    "author": "Sergey Sinitsa",
+    "body": "Learn Vue",
+    "isPublished": true
+  },
+  {
+    "id": 2,
+    "title": "Title 2",
+    "author": "Sergey Sinitsa",
+    "body": "Learn about single-file components",
+    "isPublished": true
+  },
+  {
+    "id": 3,
+    "title": "Title 3",
+    "author": "Proverka",
+    "body": "HTML",
+    "isPublished": false
+  }
+]

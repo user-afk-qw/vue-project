@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "author": "Samurai",
+      "body": "Chippin' In",
+      "isPublished": true
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "author": "Samurai",
+      "body": "Black Dog",
+      "isPublished": true
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "author": "Samurai",
+      "body": "Never Fade Away",
+      "isPublished": false
+    }
+  ]
+}
